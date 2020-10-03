@@ -5,7 +5,7 @@
  Hello there, I am a Software Engineer, at heart I'm an artist who weirdly likes math (when she behaves). I love videogames, I love sports, I love movies, cars, computers, music, books, anime, clothes, etc. I code in mostly but not limited to JavaScript, Python, and C++. As I add projects I try to be as thorough as possible, adding comments and spacing stuff well, all that good stuff. This profile is not a niche one, I will and always will do projects in any area, from Robotics to AI to a Flappy Bird clone!
 
 - 🔭 I’m currently working on finishing a script for a videogame.
-- 🌱 I’m currently learning the maths currently used in ML, as well as learning lots of artistic tools and tech.
+- 🌱 I’m currently learning the maths used in ML, as well as learning lots of artistic tools and tech.
 - 👯 I’m looking to collaborate on anything! Contact me, for real!
 - 🤔 I’m looking for help with doing MoCap, assets, programming, and such for a videogame! Don't worry, suuuper part-time (Unreal Engine 4, Blender).
 - 💬 Ask me about the videogame I am making! Or about anything, really. 
