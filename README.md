@@ -16,28 +16,28 @@
 <hr>
 <strong>Education:</strong>
 
- Applied Mathematics \
--Bachelor’s Program - Queens College - New York (2018 - 2020) \
+ Applied Mathematics <br>
+-Bachelor’s Program - Queens College - New York (2018 - 2020) <br>
 Courses Sample: Adv. Calculus, C++, Linear Algebra, Probability & Stats, Computer Arch. & Assembly Lg.
 <hr>
- Computer Science \
--Associate’s Program - CUNY BMCC - New York (2017-2018) \
+ Computer Science <br>
+-Associate’s Program - CUNY BMCC - New York (2017-2018) <br>
 Courses Sample: Afro-american History, Literature, English, Calculus 1, Discrete Math, & Intro to OOP.
 <hr>
- Intro to Programming \
+ Intro to Programming <br>
 -Nanodegree Program - Udacity - Online 
 <hr>
- Machine Learning \
- Responsive Web Design \
- JavaScript Algorithms and Data Structures \
- Front End Libraries \
- Data Visualization \
- APIs and Microservices \
- Quality Assurance \
- Scientific Computing with Python \
- Data Analysis with Python \
- Information Security \
+ Machine Learning <br>
+ Responsive Web Design <br>
+ JavaScript Algorithms and Data Structures <br>
+ Front End Libraries <br>
+ Data Visualization <br>
+ APIs and Microservices <br>
+ Quality Assurance <br>
+ Scientific Computing with Python <br>
+ Data Analysis with Python <br>
+ Information Security <br>
 -Professional Certificates - FreeCodeCamp - Online
 <hr>
- AlgoExpert \
+ AlgoExpert <br>
 -Certificate Of Completion - AlgoExpert - Online
