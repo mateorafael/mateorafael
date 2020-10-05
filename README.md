@@ -26,16 +26,16 @@ Courses Sample: Afro-american History, Literature, English, Calculus 1, Discrete
  Intro to Programming
 -Nanodegree Program - Udacity - Online 
 
- Machine Learning
- Responsive Web Design
- JavaScript Algorithms and Data Structures
- Front End Libraries
- Data Visualization
- APIs and Microservices
- Quality Assurance
- Scientific Computing with Python
- Data Analysis with Python
- Information Security
+ Machine Learning \
+ Responsive Web Design \
+ JavaScript Algorithms and Data Structures \
+ Front End Libraries \
+ Data Visualization \
+ APIs and Microservices \
+ Quality Assurance \
+ Scientific Computing with Python \
+ Data Analysis with Python \
+ Information Security \
 -Professional Certificates - FreeCodeCamp - Online
 
  AlgoExpert
