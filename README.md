@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I wake up veeeery early to run, because I like listening to crickets and birds waking up. xD Also, the air just feels more breathable.
 <hr>
 <hr>
-## Education:
+<strong>Education:</strong>
 
  Applied Mathematics \
 -Bachelor’s Program - Queens College - New York (2018 - 2020) \
